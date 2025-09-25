@@ -17,5 +17,4 @@ fun main() {
     Cupra.walk()
     Cupra.walk()
     println(Cupra)
-
 }
